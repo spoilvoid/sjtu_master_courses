@@ -1,0 +1,1 @@
+上N、下S、左W、右E的4个动作分别代表0，1，2，3，边界状态不能做出某些动作，[height-1,0]为start state， [height-1, width-1]为结束态，剩余的[height-1, x]为cliff
